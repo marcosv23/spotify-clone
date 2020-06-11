@@ -8,5 +8,5 @@ This is based on bootstrap,
 
 You can see the result on:
 
-https://github.com/marcosv23/spotify-clone
+https://marcosv23.github.io/spotify-clone/
 
